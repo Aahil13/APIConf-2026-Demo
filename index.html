@@ -10,11 +10,11 @@
   <script>
     AsyncApiStandalone.render({
       schema: {
-        url: 'https://raw.githubusercontent.com/asyncapi/spec/v2.0.0/examples/2.0.0/streetlights.yml',
+        url: 'https://raw.githubusercontent.com/integrational/asyncapi-spec/refs/heads/master/examples/2.0.0/simple.yml',
         options: { method: "GET", mode: "cors" },
       },
       config: {
-        show: { sidebar: true }
+        show: { sidebar: false }
       },
     }, document.getElementById('asyncapi'));
   </script>

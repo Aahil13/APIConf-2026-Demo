@@ -1,9 +1,9 @@
 asyncapi: '2.0.0'
 info:
-  title: Streetlights spec file
+  title: Ife's spec file
   version: '1.0.0'
   description: |
-    The Smartylighting Streetlights API allows you to remotely manage the city lights.
+    Maybe Emmanuel  wants to contribute to AsncAPI?
 
     ### Check out its awesome features:
 
